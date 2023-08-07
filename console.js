@@ -5,3 +5,4 @@ console.log("Follow me, Thankyou") #Second_one
 fucntion main(){
   return null;
 }
+main()
